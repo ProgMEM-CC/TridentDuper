@@ -1,4 +1,7 @@
+PATCHED AS OF MINECRAFT 1.21.7
+
 -Patched on latest version of paper as of Feb 16, 2025
+
 -Patched on 2b2t Feb 18, 2025
 
 "Autism inc" originally found this dupe. here's their discord: https://discord.gg/bukkit
